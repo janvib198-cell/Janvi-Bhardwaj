@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: Platane/snk@v3
         with:
-          github_user_name: janvib198-cell
+          github_user_name: Janvi-Bhardwaj
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
