@@ -42,7 +42,7 @@
 
 ---
 
-<!-- DASHBOARD: STREAK STATS & LIVE SPOTIFY -->
+<!-- DASHBOARD: STREAK STATS & GITHUB STATS -->
 <div align="center">
 
   <table border="0">
@@ -54,9 +54,9 @@
         </a>
       </td>
       <td align="center" width="50%">
-        <h4>🎵 AUDIO FEED</h4>
-        <a href="https://spotify-github-profile.vercel.app/api/spotify">
-          <img src="https://novatoken-spotify-readme.vercel.app/api/spotify" width="100%" alt="Spotify Player" />
+        <h4>📊 PROFILE STATS</h4>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=janvib198-cell&theme=tokyonight&hide_border=true&show_icons=true" width="100%" alt="GitHub Stats" />
         </a>
       </td>
     </tr>
