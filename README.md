@@ -1,10 +1,10 @@
-<!-- HEADER BANNER WITH CAR & FOOTBALL EMOJIS -->
+<!-- CAR & FOOTBALL THEMED HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0055,50:7a00ff,100:00f0ff&height=220&section=header&text=🚗%20JANVI%20BHARDWAJ%20⚽&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&stroke=00f0ff&strokeWidth=1" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0055,50:7a00ff,100:00f0ff&height=220&section=header&text=🏎️%20JANVI%20BHARDWAJ%20⚽&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&stroke=00f0ff&strokeWidth=1" alt="Header Banner" width="100%" />
 
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF0055&center=true&vcenter=true&width=580&lines=%F0%9F%9A%97+Driven+by+Code+%26+Velocity;%E2%9A%BD+Goal-Oriented+Learner;%3E+Exploring+Software+Development" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF0055&center=true&vcenter=true&width=550&lines=%F0%9F%8F%8E%EF%B8%8F+Driven+by+Code+%26+Velocity;%E2%9A%BD+Goal-Oriented+Learner;%3E+Exploring+Software+Development" alt="Typing SVG" />
     </a>
   </p>
 </div>
