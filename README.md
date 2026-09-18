@@ -1,4 +1,4 @@
-  <!-- HEADER BANNER WITH CAR & FOOTBALL EMOJIS -->
+<!-- HEADER BANNER WITH CAR & FOOTBALL EMOJIS -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0055,50:7a00ff,100:00f0ff&height=220&section=header&text=🚗%20JANVI%20BHARDWAJ%20⚽&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&stroke=00f0ff&strokeWidth=1" alt="Header Banner" width="100%" />
 
@@ -74,9 +74,9 @@
 ### 🐍 CONTRIBUTION GRID
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janvib198-cell/janvib198-cell/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janvib198-cell/janvib198-cell/output/github-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/janvib198-cell/janvib198-cell/output/github-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janvib198-cell/Janvi-Bhardwaj/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janvib198-cell/Janvi-Bhardwaj/output/github-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/janvib198-cell/Janvi-Bhardwaj/output/github-snake.svg" width="100%">
 </picture>
 
 </div>
