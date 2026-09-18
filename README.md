@@ -1,4 +1,4 @@
-<!-- HEADER BANNER WITH CAR & FOOTBALL EMOJIS -->
+  <!-- HEADER BANNER WITH CAR & FOOTBALL EMOJIS -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0055,50:7a00ff,100:00f0ff&height=220&section=header&text=🚗%20JANVI%20BHARDWAJ%20⚽&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&stroke=00f0ff&strokeWidth=1" alt="Header Banner" width="100%" />
 
@@ -42,7 +42,7 @@
 
 ---
 
-<!-- DASHBOARD: STREAK STATS & GITHUB STATS -->
+<!-- DASHBOARD: STREAK STATS & TOP LANGUAGES -->
 <div align="center">
 
   <table border="0">
@@ -54,9 +54,9 @@
         </a>
       </td>
       <td align="center" width="50%">
-        <h4>📊 PROFILE STATS</h4>
+        <h4>📊 MOST USED LANGUAGES</h4>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=janvib198-cell&theme=tokyonight&hide_border=true&show_icons=true" width="100%" alt="GitHub Stats" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=janvib198-cell&theme=tokyonight&hide_border=true&layout=compact" width="100%" alt="Top Languages" />
         </a>
       </td>
     </tr>
