@@ -1,27 +1,83 @@
-# Janvi-Bhardwaj
-<!-- HEADER BANNER -->
+#Janvi Bhardwaj
+<!-- CYBERPUNK HEADER BANNER -->
 <div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=header&text=JANVI%20BHARDWAJ&fontSize=48&animation=fadeIn&fontAlignY=38](https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=header&text=JANVI%20BHARDWAJ&fontSize=48&animation=fadeIn&fontAlignY=38)" alt="Header" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e1b4b&height=220&section=header&text=JANVI%20BHARDWAJ&fontSize=52&fontColor=38bdf8&animation=twinkle&stroke=8b5cf6&strokeWidth=2&fontAlignY=45" alt="Header Banner" width="100%" />
+
   <p align="center">
-    <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-      <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=Welcome+to+my+profile!;A+learner!;Exploring+Software+Development;Building+%26+Learning+Every+Day](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=Welcome+to+my+profile!;A+learner!;Exploring+Software+Development;Building+%26+Learning+Every+Day)" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=%3E+Exploring+Software+Development;%3E+Continuous+Learner+%26+Tech+Student;%3E+Building+%26+Learning+Every+Day" alt="Typing SVG" />
     </a>
   </p>
 </div>
 
-```bash
-$ whoami
-> Tech Student, Aspiring Developer, & Continuous Learner
+<br/>
 
-$ cat skills.json
-{
-  "languages": ["C", "C++", "Java", "Python"],
-  "web_basics": ["HTML", "CSS", "JavaScript"],
-  "tools": ["Git", "GitHub", "VS Code"],
-  "currently_learning": ["Data Structures & Algorithms", "Web Development"]
-}
+<!-- EDITORIAL: IN THE NEWS / QUICK SUMMARY -->
+<div align="center">
 
-$ ./contact.sh
-> Email: janvi.b198@gmail.com
-> LinkedIn: https://www.linkedin.com/in/janvi-bhardwaj
+| 📰 **IN THE NEWS** | **DISPATCH DETAILS** |
+| :--- | :--- |
+| **CURRENT STATUS** | Computer Science Student & Tech Enthusiast |
+| **PRIMARY FOCUS** | Foundations of Programming & Data Structures |
+| **CURRENTLY LEARNING** | Modern Web Technologies & C++ |
+| **CONTACT DIRECTORY** | [Email Me](mailto:janvi.b198@gmail.com) • [LinkedIn Profile](https://www.linkedin.com/in/janvi-bhardwaj) |
+
+</div>
+
+<br/>
+
+---
+
+<!-- CYBERPUNK TECH STACK (HIGH-DEF GLOWING ICONS) -->
+<div align="center">
+
+### ⚡ TECH MATRIX
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,git,github,vscode&theme=dark&perline=5" alt="Tech Stack Icons" />
+</p>
+
+</div>
+
+<br/>
+
+---
+
+<!-- DASHBOARD: STREAK STATS & LIVE SPOTIFY -->
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <h4>🔥 ACTIVITY PULSE</h4>
+        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=janvib198-cell&theme=tokyonight&hide_border=true&border_radius=10" width="100%" alt="GitHub Streak" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <h4>🎵 AUDIO AUDIO FEED</h4>
+        <a href="https://spotify-github-profile.vercel.app/api/spotify">
+          <img src="https://spotify-github-profile.vercel.app/api/spotify" width="100%" alt="Spotify Player" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br/>
+
+---
+
+<!-- INTERACTIVE SNAKE GAME -->
+<div align="center">
+
+### 🐍 CONTRIBUTION GRID
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janvib198-cell/janvib198-cell/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janvib198-cell/janvib198-cell/output/github-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/janvib198-cell/janvib198-cell/output/github-snake.svg" width="100%">
+</picture>
+
+</div>
