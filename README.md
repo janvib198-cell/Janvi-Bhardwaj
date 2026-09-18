@@ -1,11 +1,10 @@
-#Janvi Bhardwaj
-<!-- CYBERPUNK HEADER BANNER -->
+<!-- CAR & FOOTBALL THEMED HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e1b4b&height=220&section=header&text=JANVI%20BHARDWAJ&fontSize=52&fontColor=38bdf8&animation=twinkle&stroke=8b5cf6&strokeWidth=2&fontAlignY=45" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0055,50:7a00ff,100:00f0ff&height=220&section=header&text=🏎️%20JANVI%20BHARDWAJ%20⚽&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&stroke=00f0ff&strokeWidth=1" alt="Header Banner" width="100%" />
 
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=%3E+Exploring+Software+Development;%3E+Continuous+Learner+%26+Tech+Student;%3E+Building+%26+Learning+Every+Day" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF0055&center=true&vcenter=true&width=550&lines=%F0%9F%8F%8E%EF%B8%8F+Driven+by+Code+%26+Velocity;%E2%9A%BD+Goal-Oriented+Learner;%3E+Exploring+Software+Development" alt="Typing SVG" />
     </a>
   </p>
 </div>
@@ -55,7 +54,7 @@
         </a>
       </td>
       <td align="center" width="50%">
-        <h4>🎵 AUDIO AUDIO FEED</h4>
+        <h4>🎵 AUDIO FEED</h4>
         <a href="https://spotify-github-profile.vercel.app/api/spotify">
           <img src="https://spotify-github-profile.vercel.app/api/spotify" width="100%" alt="Spotify Player" />
         </a>
